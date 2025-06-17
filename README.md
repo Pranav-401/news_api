@@ -70,20 +70,7 @@ Edit
 What news are you interested in today? : Technology
 You'll get a clean list of headlines with titles, descriptions, and URLs.
 
-🗂️ Sample Output
-markdown
-Copy
-Edit
 
-1. OpenAI launches ChatGPT-5
-   ChatGPT-5 brings advanced reasoning...
-   https://news-source.com/article1
-
----
-
-2. Google introduces new AI tools
-   Google unveiled new features at I/O...
-   https://news-source.com/article2
    📦 requirements.txt
    nginx
    Copy
